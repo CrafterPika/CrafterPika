@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there i am CrafterPika
 
-<!--
-**CrafterPika/CrafterPika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+To make a few things clear here:
+- No you won't get my Credit card information
+- In this README is nothing special
 
-Here are some ideas to get you started:
+### GH Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![CrafterPika's github stats](https://github-readme-stats.vercel.app/api?username=CrafterPika&show_icons=true&theme=radical)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrafterPika&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Social
+- [Twitter (Gimme a Follow pls)](https://twitter.com/CrafterPika)
