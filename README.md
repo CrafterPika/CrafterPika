@@ -12,3 +12,9 @@ To make a few things clear here:
 
 ### Social
 - [Twitter (Gimme a Follow pls)](https://twitter.com/CrafterPika)
+
+### Friends
+- [DwifteJB](https://github.com/DwifteJB)
+- [Thunder7](https://github.com/Thunder7Yoshi)
+
+*(Notice: I shitpost a lot)*
