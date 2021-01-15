@@ -1,5 +1,7 @@
 ### Hi there i am CrafterPika
 
+![](https://komarev.com/ghpvc/?username=CrafterPika&color=green)
+
 To make a few things clear here:
 - No you won't get my Credit card information
 - In this README is nothing special
