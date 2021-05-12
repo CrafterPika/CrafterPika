@@ -20,3 +20,5 @@ To make a few things clear here:
 - [Thunder7](https://github.com/Thunder7Yoshi)
 
 *(Notice: I shitpost a lot)*
+
+[![Dont Donate](./btn_donateCC_LG.gif)](https://paypal.me/CrafterPika)
