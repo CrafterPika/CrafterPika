@@ -21,4 +21,4 @@ To make a few things clear here:
 
 *(Notice: I shitpost a lot)*
 
-[![Dont Donate](./btn_donateCC_LG.gif)](https://paypal.me/CrafterPika)
+[![Dont Donate](./btn_donateCC_LG.gif)](https://youtu.be/dQw4w9WgXcQ)
